@@ -1,0 +1,32 @@
+
+#img1
+{
+	height: 50px;
+	width: 50px;
+}
+#i1{
+	background-size: inherit;
+	float: right;
+}
+body{
+	background-color: #F2972E;
+}
+.t1{
+	margin-left: 30px;
+}
+#t2{
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#app{
+	margin-left: 700px;
+	margin-top: 80px;
+	height: 90px;
+	width: 250px;
+}
+#play{
+	margin-left: 300px;
+	margin-top: -200px;
+	height: 300px;
+	width: 300px;
+}
